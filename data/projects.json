@@ -7,7 +7,6 @@
     "demo_url": "https://demo.smartdashboard.com",
     "github_url": "https://github.com/Mmye-dev/smart-dashboard",
     "technologies": ["React", "Django", "Chart.js", "Redux"],
-    "skill_ids": [1, 3, 5],
     "is_active": true
   },
   {
@@ -18,7 +17,6 @@
     "demo_url": "https://demo.modernshop.com",
     "github_url": "https://github.com/Mmye-dev/modern-shop",
     "technologies": ["Next.js", "Node.js", "MongoDB", "Tailwind"],
-    "skill_ids": [2, 4, 6],
     "is_active": true
   },
   {
@@ -29,7 +27,6 @@
     "demo_url": "https://demo.recommender.ai",
     "github_url": "https://github.com/Mmye-dev/recommender-system",
     "technologies": ["Python", "FastAPI", "TensorFlow", "scikit-learn"],
-    "skill_ids": [3, 5],
     "is_active": true
   }
 ]
