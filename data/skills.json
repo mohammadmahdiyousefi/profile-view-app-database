@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "user_id": 1,
     "name": "Flutter & Dart",
     "percentage": 90,
     "order": 1,
@@ -9,7 +8,6 @@
   },
   {
     "id": 2,
-    "user_id": 1,
     "name": "BLoC / Cubit",
     "percentage": 88,
     "order": 2,
@@ -17,7 +15,6 @@
   },
   {
     "id": 3,
-    "user_id": 1,
     "name": "Firebase",
     "percentage": 85,
     "order": 3,
@@ -34,7 +31,6 @@
   },
   {
     "id": 5,
-    "user_id": 1,
     "name": "Git & CI/CD",
     "percentage": 80,
     "order": 5,
@@ -43,7 +39,6 @@
   },
   {
     "id": 6,
-    "user_id": 1,
     "name": "UI/UX Design",
     "percentage": 75,
     "order": 6,
