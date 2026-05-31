@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "name": "Flutter & Dart",
+    "percentage": 90,
+    "order": 1,
+    "category": "Mobile",
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "name": "BLoC / Cubit",
+    "percentage": 88,
+    "order": 2,
+    "category": "State Management",
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "name": "Firebase",
+    "percentage": 85,
+    "order": 3,
+    "category": "Backend",
+  },
+  {
+    "id": 4,
+    "user_id": 1,
+    "name": "RESTful API",
+    "percentage": 92,
+    "order": 4,
+    "category": "Backend",
+
+  },
+  {
+    "id": 5,
+    "user_id": 1,
+    "name": "Git & CI/CD",
+    "percentage": 80,
+    "order": 5,
+    "category": "DevOps",
+
+  },
+  {
+    "id": 6,
+    "user_id": 1,
+    "name": "UI/UX Design",
+    "percentage": 75,
+    "order": 6,
+    "category": "Design",
+
+  }
+]
